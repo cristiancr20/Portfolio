@@ -16,7 +16,7 @@ function Navbar() {
                 <div className='navbar'>
 
                     <div className="navbar-container container">
-                        <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+                        <Link to='/Portfolio' className='navbar-logo' onClick={closeMobileMenu}>
                             Capita
                         </Link>
                         <div className='menu-icon' onClick={handleClick}>
