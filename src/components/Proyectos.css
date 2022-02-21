@@ -1,73 +1,94 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600&family=Oxygen:wght@300;400;700&display=swap');
-*{
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@500;600&family=Oxygen:wght@300;400;700&display=swap");
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: #fff;
+    font-family: "Oxygen", sans-serif;
+}
+
+h1 {
+    text-align: center;
 }
 
 .content{
-    color: #fff;
-    background: #222;
-    height: 100vh;
-    font-family: 'Oxygen', sans-serif;
+    padding: 20px 0;
 }
-
-.content .content-proyects{
-    width: 80%;
-    margin: auto;
-}
-
-.content .content-proyects h1{
-    text-align: center;
-    padding: 50px;
-    font-size: 80px;
-}
-.content .content-proyects .cont-proyectos{
+.proyecto {
     border: 1px solid #fff;
-    padding: 20px;
+    width: 70%;
+    margin: 20px auto;
     transition: all .3s ease-in-out;
-    cursor: pointer;
-}
-.content .content-proyects .cont-proyectos:hover{
-    background: black;
 }
 
-.cont-proyectos h3{
+.proyecto:hover{
+    background: #000;
+}
+
+
+.title{
     font-size: 30px;
-    margin:0px 20px;
+    padding: 20px;
 }
 
-.enlace{
-    
-    color: #fff;
-    text-decoration: none;
-    
-}
-
-
-
-.cont-proyectos .cont{
+.informacion {
     display: flex;
     margin: 20px;
+    justify-content: center;
 }
 
-.cont-proyectos .cont .imagen{
+.imagen {
     width: 100px;
-    margin-right: 20px;
 }
 
-.cont-proyectos .cont .imagen img{
+.imagen img {
     width: 100%;
 }
 
+.info{
+    font-size: 20px;
+    margin: auto 20px;
+}
+
+
+.enlace {
+    margin: auto 20px;
+    border: 1px solid #fff;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
 @media screen and (max-width: 960px) {
-    .content .content-proyects h1{
+    .content .content-proyects h1 {
         font-size: 50px;
     }
 
+    .title{
+        text-align: center;
+    }
+
+    .informacion{
+        display: block;
+        text-align: center;
+    }
+
+    .informacion .imagen{
+        
+        margin: auto;
+    }
+
+    .info{
+        
+        margin: 20px;
+    }
     
-.cont-proyectos h3{
-    font-size: 20px;
-    margin:0px 20px;
-}
 }
