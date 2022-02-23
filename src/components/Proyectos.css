@@ -20,13 +20,13 @@ h1 {
 h2{
     text-align: center;
     font-size: 30px;
-
+    color: crimson;
 }
 
 
 .proyecto {
     border: 1px solid #fff;
-    width: 70%;
+    width: 85%;
     margin: 20px auto;
     transition: all .3s ease-in-out;
 }

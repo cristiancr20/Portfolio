@@ -59,4 +59,11 @@ font-size: 30px;
         align-items: center;
     }
 
+    .typescript{
+        font-size: 30px;
+        color: crimson;
+        padding: 20px;
+        font-weight: bold;
+    
+    }
 }
