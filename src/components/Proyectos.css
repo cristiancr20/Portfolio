@@ -4,22 +4,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #fff;
+    
     font-family: "Oxygen", sans-serif;
 }
 
+.content{
+    padding: 20px 0;
+    color: #fff;
+}
 h1 {
     text-align: center;
+    
 }
 
 h2{
     text-align: center;
     font-size: 30px;
+
 }
 
-.content{
-    padding: 20px 0;
-}
+
 .proyecto {
     border: 1px solid #fff;
     width: 70%;
@@ -68,6 +72,8 @@ h2{
 }
 
 a{
+    color: #fff;
+
     text-decoration: none;
 }
 

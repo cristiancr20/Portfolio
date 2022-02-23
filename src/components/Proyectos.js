@@ -18,7 +18,7 @@ function Proyectos() {
 
                         <div className='informacion'>
                             <div className='imagen'>
-                                <img src={img_1}></img>
+                                <img src={img_1} alt='img'></img>
                             </div>
 
                             <div className='info'>
@@ -40,7 +40,7 @@ function Proyectos() {
 
                         <div className='informacion'>
                             <div className='imagen'>
-                                <img src={img_2}></img>
+                                <img src={img_2} alt='img'></img>
                             </div>
 
                             <div className='info'>
@@ -60,7 +60,7 @@ function Proyectos() {
 
                         <div className='informacion'>
                             <div className='imagen'>
-                                <img src={img_3}></img>
+                                <img src={img_3} alt='img'></img>
                             </div>
 
                             <div className='info'>

@@ -7,6 +7,7 @@
 }
 .navbar {
     background: #090435;
+    
     height: 80px;
     display: flex;
     justify-content: center;
@@ -35,7 +36,8 @@
 }
 
 .navbar-logo {
-    color: #fff;
+    color: crimson;
+    font-weight: bold;
     justify-self: start;
     cursor: pointer;
     text-decoration: none;
