@@ -12,7 +12,7 @@ function Proyectos() {
                 <h1>Proyectos</h1>
                 <div className='cont-proyectos'>
 
-                    <h2>Proyecto Sitio Web</h2>
+                    <h2 className='titulo_proyect'>Proyecto Sitio Web</h2>
                     <div className='proyecto'>
                         <div className='title'>Semillas de amor</div>
 
@@ -33,7 +33,7 @@ function Proyectos() {
                         </div>
                     </div>
 
-                    <h2>Proyectos GitHub</h2>
+                    <h2 className='titulo_proyect'>Proyectos GitHub</h2>
 
                     <div className='proyecto'>
                         <div className='title'>Apple Store</div>
