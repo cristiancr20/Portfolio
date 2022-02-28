@@ -1,6 +1,6 @@
 import React from 'react'
 import './Sobremi.css'
-import fondo from '../images/fondo.jpeg'
+import fondo from '../images/fondo.jpg'
 import Cristian from '../images/yo.jpg'
 
 function Sobremi() {

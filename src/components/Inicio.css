@@ -2,19 +2,27 @@
 
 .container{
     height: 100vh;
+    width: 100%;
+    display: flex;
     font-family: 'Oxygen', sans-serif;
     text-align: center;
     align-items: center;
     color: #fff;
-    
+}
 
+.inicio_cont{
+    width: 100%;
+    margin: auto;
 }
 
 h1{
-    
     font-size: 80px;
-    
 }
+h2{
+    margin: 30px;
+    font-size: 40px;
+}
+
 
 .typescript{
     font-size: 50px;
@@ -23,7 +31,6 @@ h1{
     font-weight: bold;
 
 }
-
 .red_social{
     display: flex;
     justify-content: space-around;
@@ -65,5 +72,13 @@ font-size: 30px;
         padding: 20px;
         font-weight: bold;
     
+    }
+    h1{
+        font-size: 50px;
+    }
+
+    h2{
+        margin: 30px;
+        font-size: 30px;
     }
 }
