@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a76eb164.css",
-    "main.js": "/Portfolio/static/js/main.3bd95f7e.js",
+    "main.css": "/Portfolio/static/css/main.a9b509d5.css",
+    "main.js": "/Portfolio/static/js/main.f0663eee.js",
+    "static/media/fondo.jpg": "/Portfolio/static/media/fondo.dd4034764eb9ee217f32.jpg",
     "static/media/yo.jpg": "/Portfolio/static/media/yo.6d0498a1fd693e7b19e7.jpg",
     "static/media/Audifonos_store.jpg": "/Portfolio/static/media/Audifonos_store.d8499243db2068b53b4b.jpg",
-    "static/media/fondo.jpeg": "/Portfolio/static/media/fondo.bf43c3250a7a2b9f6b3a.jpeg",
     "static/media/Store_apple.jpg": "/Portfolio/static/media/Store_apple.8e48a3b887daa67cb178.jpg",
     "static/media/emision.jpg": "/Portfolio/static/media/emision.305ba1437d64d1310c3d.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.a76eb164.css.map": "/Portfolio/static/css/main.a76eb164.css.map",
-    "main.3bd95f7e.js.map": "/Portfolio/static/js/main.3bd95f7e.js.map"
+    "main.a9b509d5.css.map": "/Portfolio/static/css/main.a9b509d5.css.map",
+    "main.f0663eee.js.map": "/Portfolio/static/js/main.f0663eee.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76eb164.css",
-    "static/js/main.3bd95f7e.js"
+    "static/css/main.a9b509d5.css",
+    "static/js/main.f0663eee.js"
   ]
 }
