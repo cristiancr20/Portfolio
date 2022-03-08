@@ -47,6 +47,21 @@ function Proyectos() {
                             img={img_3}
                             info="Página web para una tienda de audifonos"
                             enlace="https://github.com/cristiancr20/Audifonos" />
+
+<Card title="Headphone Store"
+                            img={img_3}
+                            info="Página web para una tienda de audifonos"
+                            enlace="https://github.com/cristiancr20/Audifonos" />
+
+<Card title="Headphone Store"
+                            img={img_3}
+                            info="Página web para una tienda de audifonos"
+                            enlace="https://github.com/cristiancr20/Audifonos" />
+
+<Card title="Headphone Store"
+                            img={img_3}
+                            info="Página web para una tienda de audifonos"
+                            enlace="https://github.com/cristiancr20/Audifonos" />
                     </div>
 
                 </div>
