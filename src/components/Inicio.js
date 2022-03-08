@@ -23,7 +23,7 @@ function Inicio() {
           <div className='inicio_info'>
 
             <h1>Hola, Soy Cristian Capa</h1>
-            <h2>Estudiante de Computacion</h2>
+            <h2>Estudiante de Computación</h2>
 
             <div className='red_social'>
               <div className='icon'>
