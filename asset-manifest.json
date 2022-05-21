@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a9b509d5.css",
-    "main.js": "/Portfolio/static/js/main.f0663eee.js",
-    "static/media/fondo.jpg": "/Portfolio/static/media/fondo.dd4034764eb9ee217f32.jpg",
-    "static/media/yo.jpg": "/Portfolio/static/media/yo.6d0498a1fd693e7b19e7.jpg",
-    "static/media/Audifonos_store.jpg": "/Portfolio/static/media/Audifonos_store.d8499243db2068b53b4b.jpg",
-    "static/media/Store_apple.jpg": "/Portfolio/static/media/Store_apple.8e48a3b887daa67cb178.jpg",
-    "static/media/emision.jpg": "/Portfolio/static/media/emision.305ba1437d64d1310c3d.jpg",
+    "main.css": "/Portfolio/static/css/main.4b3cb37b.css",
+    "main.js": "/Portfolio/static/js/main.3d1189e0.js",
+    "static/media/fondo.jpg": "/Portfolio/static/media/fondo.c6164b4469d0a5d393a9.jpg",
+    "static/media/cinePlus.jpg": "/Portfolio/static/media/cinePlus.cb649005b6791c77ac79.jpg",
+    "static/media/juegocalamar.jpg": "/Portfolio/static/media/juegocalamar.03b25a0f3f3879c34ef6.jpg",
+    "static/media/tatto.jpg": "/Portfolio/static/media/tatto.ea75d6867f593fd90b77.jpg",
+    "static/media/yo.jpg": "/Portfolio/static/media/yo.9e6618ac9886648e7b30.jpg",
+    "static/media/Audifonos_store.jpg": "/Portfolio/static/media/Audifonos_store.9185c6bf82809795e6ff.jpg",
+    "static/media/emision.jpg": "/Portfolio/static/media/emision.80025e918e63cee3ff5e.jpg",
+    "static/media/Store_apple.jpg": "/Portfolio/static/media/Store_apple.00a5f63128638e5ec338.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.a9b509d5.css.map": "/Portfolio/static/css/main.a9b509d5.css.map",
-    "main.f0663eee.js.map": "/Portfolio/static/js/main.f0663eee.js.map"
+    "main.4b3cb37b.css.map": "/Portfolio/static/css/main.4b3cb37b.css.map",
+    "main.3d1189e0.js.map": "/Portfolio/static/js/main.3d1189e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9b509d5.css",
-    "static/js/main.f0663eee.js"
+    "static/css/main.4b3cb37b.css",
+    "static/js/main.3d1189e0.js"
   ]
 }
