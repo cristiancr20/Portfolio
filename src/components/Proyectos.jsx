@@ -2,9 +2,12 @@ import React from 'react'
 import './Proyectos.css'
 import fondo from '../images/fondo.jpg'
 import img_1 from '../images/emision.jpg'
-
 import img_2 from '../images/Store_apple.jpg'
 import img_3 from '../images/Audifonos_store.jpg'
+import img_4 from '../images/cinePlus.jpg'
+import img_5 from '../images/juegocalamar.jpg'
+import img_6 from '../images/tatto.jpg'
+
 import Card from './Card'
 
 function Proyectos() {
@@ -48,20 +51,20 @@ function Proyectos() {
                             info="Página web para una tienda de audifonos"
                             enlace="https://github.com/cristiancr20/Audifonos" />
 
-<Card title="Headphone Store"
-                            img={img_3}
-                            info="Página web para una tienda de audifonos"
-                            enlace="https://github.com/cristiancr20/Audifonos" />
+                        <Card title="Headphone Store"
+                            img={img_4}
+                            info="Página web para una ver peliculas"
+                            enlace="https://github.com/cristiancr20/CinePlus" />
 
-<Card title="Headphone Store"
-                            img={img_3}
-                            info="Página web para una tienda de audifonos"
-                            enlace="https://github.com/cristiancr20/Audifonos" />
+                        <Card title="Squid Game"
+                            img={img_5}
+                            info="Página web sobre Squid Game"
+                            enlace="https://github.com/cristiancr20/Juego_Calamar.git" />
 
-<Card title="Headphone Store"
-                            img={img_3}
-                            info="Página web para una tienda de audifonos"
-                            enlace="https://github.com/cristiancr20/Audifonos" />
+                        <Card title="Tatto Salon"
+                            img={img_6}
+                            info="Página web para un salon de tatuajes"
+                            enlace="https://github.com/cristiancr20/Tatto_Salon.git" />
                     </div>
 
                 </div>
